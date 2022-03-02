@@ -27,7 +27,10 @@ $ npm start
 
 ---
 
-##DISCLAMER / Дисклеймер
-This is for educational purposes ONLY / Данный материал предназначен только для обучения
-I or anyone else who works on this project can't and won't be held responsible for anything YOU do with this / Я или кто-либо другой кто работает над данным проектом не может и не будет брать ответственность за любое совершенное ВАМИ действие
-Please use responsibly / Пожалуйста используйте ответственно
+## DISCLAMER / Дисклеймер
+1. This is for educational purposes ONLY
+1. Данный материал предназначен только для обучения 
+2. I or anyone else who works on this project can't and won't be held responsible for anything YOU do with this 
+2. или кто-либо другой кто работает над данным проектом не может и не будет брать ответственность за любое совершенное ВАМИ действие
+3. Please use responsibly
+3. Пожалуйста используйте ответственно
