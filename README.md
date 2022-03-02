@@ -8,7 +8,7 @@
 
 Download and install this program https://nodejs.org/en/. After that you will be good to start
 
-Скачайте и установите данную программу https://nodejs.org/en/. После этого можете запускать скрипт
+Скачайте и установите данную программу https://nodejs.org/ru/. После этого можете запускать скрипт
 
 In .env change ```SOURCES```  to your website URL or comma separated URL's and configure the number of requests
 
